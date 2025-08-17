@@ -12,7 +12,7 @@ Currently exploring **System Design** and **Software Testing** to strengthen my 
 
 💡 I specialize in:  
 - **Frontend:** React.js, Next.js, Redux, JavaScript, HTML5, CSS3  
-- **Mobile Apps:** React Native (Android development)  
+- **Mobile Apps:** Kotlin (Android development)  
 - **Backend & Databases:** Node.js, MongoDB, SQL  
 - **Cloud & Tools:** AWS, Python, C++, Git, Docker (basics)  
 
